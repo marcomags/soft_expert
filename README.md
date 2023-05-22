@@ -34,3 +34,10 @@ app/build/index.html
 ```
 site/build/index.html
 ```
+
+## Acesso
+Para acessar a aplicação (/app), entrar com as seguintes credenciais:
+```
+Username: se@email.com
+Password: supermarket
+```
